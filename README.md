@@ -30,14 +30,14 @@ BlogWriter is a powerful and user-friendly application that leverages OpenAI's G
   ```
 
 ### Steps to Run the application
-1. Clone the repository.
+1. Clone the repository. Keep `main.py` and `apikey.py` in same folder
 2. Install the dependencies:
   ```python
   pip install -r requirements.txt
   ```
 3. Run the application:
   ```python
-  streamlit run app.py
+  streamlit run main.py
   ```
 
 ### Generating a Blog
